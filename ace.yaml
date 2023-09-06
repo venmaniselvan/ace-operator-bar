@@ -1,7 +1,7 @@
 apiVersion: appconnect.ibm.com/v1beta1
 kind: IntegrationServer
 metadata:
-  name: http-echo-service
+  name: http-name-service
   namespace: ace-demo-op
   labels: {}
 spec:
